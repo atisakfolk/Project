@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xeb3B27108C359D537712935E6e37Fc662b41255a",
+  "SCAN_LINK": "https://etherscan.io/token/0xeb3b27108c359d537712935e6e37fc662b41255a",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "BillionTurtles",
+  "SYMBOL": "BTT",
+  "MAX_SUPPLY": 5555,
+  "WEI_COST": 2000000000000000,
+  "DISPLAY_COST": 0.002,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/billionturtles",
+  "SHOW_BACKGROUND": true
+}
